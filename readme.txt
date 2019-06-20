@@ -16,3 +16,10 @@ $ git commic -m"message"
 $ git status
 $ git diff filename
 
+版本回退
+$ git reset --hard HEAD^
+$ git reset --hard eb2c75e
+
+Log命令
+$ git log --pretty=oneline
+$ git reflog
