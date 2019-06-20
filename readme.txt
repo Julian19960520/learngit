@@ -1,8 +1,14 @@
-配置
+閰嶇疆
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 
-创建目录，进入目录，输出当前路径
+鍒涘缓鐩綍锛岃繘鍏ョ洰褰曪紝杈撳嚭褰撳墠璺緞
 $ mkdir learngit
 $ cd learngit
 $ pwd
+
+鍒濆鍖栫増鏈簱锛屽鍔犳枃浠讹紝鎻愪氦
+$ git init
+$ git add filename.txt
+$ git commic -m"message"
+
