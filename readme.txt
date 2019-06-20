@@ -12,3 +12,7 @@ $ git init
 $ git add filename.txt
 $ git commic -m"message"
 
+查看版本库状态，文件差异
+$ git status
+$ git diff filename
+
